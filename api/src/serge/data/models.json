@@ -538,5 +538,26 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Mistral7b",
+        "models": [
+            {
+                "name": "Mistral-7B-v0.1",
+                "repo": "mistralai/Mistral-7B-v0.1",
+                "files": [
+                    {
+                        "name": "pytorch_model-00001-of-00002",
+                        "filename": "pytorch_model-00001-of-00002.bin",
+                        "disk_space": 9940000000.0
+                    },
+                    {
+                        "name": "pytorch_model-00002-of-00002",
+                        "filename": "pytorch_model-00002-of-00002.bin",
+                        "disk_space": 5060000000.0
+                    }
+                ]
+            }
+        ]
     }
 ]
